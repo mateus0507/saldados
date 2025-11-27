@@ -1,5 +1,5 @@
 // URL base da API
-const API_URL = "http://localhost:3000/agendamentos";
+const API_URL = "https://saldados.onrender.com/agendamentos";
 
 // ------- CADASTRAR AGENDAMENTO (POST) -------
 document.addEventListener("DOMContentLoaded", () => {
